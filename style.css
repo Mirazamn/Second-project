@@ -1,0 +1,114 @@
+#welcome {
+    background-color:rgb(204, 217, 255) ;
+    border: 2px solid rgb(255, 0, 0);
+    border-radius: 20px;
+    text-align: center;
+}
+
+
+#comment {
+    width: 90%;
+    height: 30px;
+}
+
+
+#sth {
+    background-color: rgb(255, 255, 4);
+    color: rgb(45, 104, 45);
+    text-align: center;
+}
+
+
+img{
+    text-align: center;
+}
+
+
+#ndht {
+    background-color: rgb(255, 255, 4);
+    color: rgb(45, 104, 45);
+    text-align: center;
+}
+
+
+#stdiv {
+    text-align: center;
+    background-size: 700px;
+    background-color: black;
+    border: none;
+    border-radius: 15px;
+}
+
+
+#nddiv {
+    text-align: center;
+    background-color: none;
+}
+
+
+.ozfkr {
+    color: rgb(34, 96, 56);
+}
+
+
+button {
+    background-color: rgb(101, 153, 204);
+    border: none;
+    width: 300px;
+    height: 50px;
+    font-size: 40px;
+    color: white;
+}
+
+
+table, thead, tr, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+.fact {
+    background-color: black;
+    color: white;
+    width: 700px;
+    text-align: center;
+}
+
+
+.anml {
+    background-color: red;
+    color: white;
+    width: 250px;
+    text-align: center;
+}
+
+
+#smt {
+    background-color: green;
+    color: white;
+}
+
+
+#smth {
+    background-color: blue;
+    color: white;
+}
+
+
+#antab {
+    background-color: rgb(255, 255, 4);
+    color: rgb(45, 104, 45);
+    text-align: center;
+}
+
+
+#nml {
+    color: rgb(45, 104, 45);
+}
+
+
+span {
+    color: red;
+}
